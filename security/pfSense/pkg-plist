@@ -1,5 +1,3 @@
-/etc/bogons
-/etc/bogonsv6
 /etc/dh-parameters.1024
 /etc/dh-parameters.2048
 /etc/dh-parameters.3072
