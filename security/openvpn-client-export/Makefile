@@ -1,11 +1,11 @@
 PORTNAME=	openvpn-client-export
 PORTVERSION=	2.6.7
 CATEGORIES=	security
-MASTER_SITES=	https://files.OpenSourceCompany.com/packages/openvpn-client-export/
+MASTER_SITES=	https://files.netgate.com/packages/openvpn-client-export/
 
-MAINTAINER=	jimp@OpenSourceCompany.com
+MAINTAINER=	jimp@netgate.com
 COMMENT=	OpenVPN Client Export
-WWW=		https://docs.OpenSourceCompany.com/libresense/en/latest/packages/openvpn-client-export.html
+WWW=		https://docs.netgate.com/libresense/en/latest/packages/openvpn-client-export.html
 
 LICENSE=	APACHE20
 
