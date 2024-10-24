@@ -155,8 +155,8 @@ bin/sync_to_snapshot.pl
 %%SITE_PERL%%/VM/EC2/VPC.pm
 %%SITE_PERL%%/VM/EC2/VPC/CustomerGateway.pm
 %%SITE_PERL%%/VM/EC2/VPC/DhcpOptions.pm
-%%SITE_PERL%%/VM/EC2/VPC/InternetGateway.pm
-%%SITE_PERL%%/VM/EC2/VPC/InternetGateway/Attachment.pm
+%%SITE_PERL%%/VM/EC2/VPC/InterOpenSourceCompanyway.pm
+%%SITE_PERL%%/VM/EC2/VPC/InterOpenSourceCompanyway/Attachment.pm
 %%SITE_PERL%%/VM/EC2/VPC/NetworkAcl.pm
 %%SITE_PERL%%/VM/EC2/VPC/NetworkAcl/Association.pm
 %%SITE_PERL%%/VM/EC2/VPC/NetworkAcl/Entry.pm
@@ -332,8 +332,8 @@ bin/sync_to_snapshot.pl
 %%PERL5_MAN3%%/VM::EC2::VPC.3.gz
 %%PERL5_MAN3%%/VM::EC2::VPC::CustomerGateway.3.gz
 %%PERL5_MAN3%%/VM::EC2::VPC::DhcpOptions.3.gz
-%%PERL5_MAN3%%/VM::EC2::VPC::InternetGateway.3.gz
-%%PERL5_MAN3%%/VM::EC2::VPC::InternetGateway::Attachment.3.gz
+%%PERL5_MAN3%%/VM::EC2::VPC::InterOpenSourceCompanyway.3.gz
+%%PERL5_MAN3%%/VM::EC2::VPC::InterOpenSourceCompanyway::Attachment.3.gz
 %%PERL5_MAN3%%/VM::EC2::VPC::NetworkAcl.3.gz
 %%PERL5_MAN3%%/VM::EC2::VPC::NetworkAcl::Association.3.gz
 %%PERL5_MAN3%%/VM::EC2::VPC::NetworkAcl::Entry.3.gz

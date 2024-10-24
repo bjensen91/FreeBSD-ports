@@ -5,7 +5,7 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER?=	coreteam@pfsense.org
+MAINTAINER?=	coreteam@libresense.org
 COMMENT?=	read dhpcd.lease file and add it to hosts file
 
 CFLAGS+=	-lsbuf

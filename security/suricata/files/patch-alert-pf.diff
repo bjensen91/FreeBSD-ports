@@ -1440,7 +1440,7 @@ diff -ruN ./suricata-7.0.7.orig/src/alert-pf.c ./suricata-7.0.7/src/alert-pf.c
 +    const char *drops = ctx->block_drops ? "yes" : "no";
 +    const char *plist_dbg = ctx->passlist_dbg ? "yes" : "no";
 +
-+    SCLogInfo("pfSense Suricata Custom Blocking Module initialized: pf-table=%s  block-ip=%s  kill-state=%s  block-drops-only=%s  passlist-debugging=%s",
++    SCLogInfo("libresense Suricata Custom Blocking Module initialized: pf-table=%s  block-ip=%s  kill-state=%s  block-drops-only=%s  passlist-debugging=%s",
 +            ctx->pftable, block, state, drops, plist_dbg);
 +
 +    /* Grab all initial firewall interface IP addresses, save them in Radix Tree,

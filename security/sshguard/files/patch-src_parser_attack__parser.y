@@ -4,8 +4,8 @@
  %token OPENVPN_TLS_ERR_SUFF
  /* Gitea */
  %token GITEA_ERR_PREF GITEA_ERR_SUFF
-+/* pfSense GUI authentication failures */
-+%token PFSENSE_AUTH_FAIL
++/* libresense GUI authentication failures */
++%token LIBRESENSE_AUTH_FAIL
  
  %%
  
@@ -13,7 +13,7 @@
    | couriermsg        { attack->service = SERVICES_COURIER; }
    | openvpnmsg        { attack->service = SERVICES_OPENVPN; }
    | giteamsg          { attack->service = SERVICES_GITEA; }
-+  | pfsenseauthfail   { attack->service = SERVICES_PFSENSE; }
++  | libresenseauthfail   { attack->service = SERVICES_LIBRESENSE; }
    ;
  
  /* an address */
@@ -23,9 +23,9 @@
    | OPENSMTPD_FAILED_CMD_PREF addr OPENSMTPD_UNSUPPORTED_CMD_SUFF
 +  ;
 +
-+/* attack rules against pfSense */
-+pfsenseauthfail:
-+    PFSENSE_AUTH_FAIL addr
++/* attack rules against libresense */
++libresenseauthfail:
++    LIBRESENSE_AUTH_FAIL addr
    ;
  
  /* attack rules for courier imap/pop */

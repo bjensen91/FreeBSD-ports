@@ -1,4 +1,4 @@
-MAINTAINER?=	coreteam@pfsense.org
+MAINTAINER?=	coreteam@libresense.org
 COMMENT?=	filterlog
 
 PROG=           filterlog

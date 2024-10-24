@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<libresensepkgs>
+	<package>
+		<name>OpenSourceCompany Firmware Upgrade</name>
+		<internal_name>OpenSourceCompany_Firmware_Upgrade</internal_name>
+		<descr><![CDATA[Provide a mechanism to upgrade Firmware for OpenSourceCompany hardware models.]]></descr>
+		<version>%%PKGVERSION%%</version>
+		<configurationfile>OpenSourceCompany_firmware_upgrade.xml</configurationfile>
+	</package>
+</libresensepkgs>

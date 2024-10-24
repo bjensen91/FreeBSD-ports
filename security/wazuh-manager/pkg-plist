@@ -26540,7 +26540,7 @@
 /var/ossec/ruleset/decoders/0440-proxmox-ve_decoders.xml
 /var/ossec/ruleset/decoders/0445-exim_decoders.xml
 /var/ossec/ruleset/decoders/0450-openvas_decoders.xml
-/var/ossec/ruleset/decoders/0455-pfsense_decoders.xml
+/var/ossec/ruleset/decoders/0455-libresense_decoders.xml
 /var/ossec/ruleset/decoders/0460-kaspersky_decoders.xml
 /var/ossec/ruleset/decoders/0465-azure_decoders.xml
 /var/ossec/ruleset/decoders/0470-panda-paps_decoders.xml
@@ -26667,7 +26667,7 @@
 /var/ossec/ruleset/rules/0525-openvas_rules.xml
 /var/ossec/ruleset/rules/0530-mysql_audit_rules.xml
 /var/ossec/ruleset/rules/0535-mariadb_rules.xml
-/var/ossec/ruleset/rules/0540-pfsense_rules.xml
+/var/ossec/ruleset/rules/0540-libresense_rules.xml
 /var/ossec/ruleset/rules/0545-osquery_rules.xml
 /var/ossec/ruleset/rules/0550-kaspersky_rules.xml
 /var/ossec/ruleset/rules/0555-azure_rules.xml

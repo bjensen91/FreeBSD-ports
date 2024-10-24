@@ -7,8 +7,8 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER=	coreteam@pfsense.org
-COMMENT=	run various pfSense scripts on event.
+MAINTAINER=	coreteam@libresense.org
+COMMENT=	run various libresense scripts on event.
 
 LICENSE=	APACHE20
 

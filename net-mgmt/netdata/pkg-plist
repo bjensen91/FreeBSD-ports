@@ -581,7 +581,7 @@ sbin/netdatacli
 %%DATADIR%%/web/v2/static/img/logos/os/opensuse.svg
 %%DATADIR%%/web/v2/static/img/logos/os/openwrt.svg
 %%DATADIR%%/web/v2/static/img/logos/os/oracle.svg
-%%DATADIR%%/web/v2/static/img/logos/os/pfsense.svg
+%%DATADIR%%/web/v2/static/img/logos/os/libresense.svg
 %%DATADIR%%/web/v2/static/img/logos/os/placeholder.svg
 %%DATADIR%%/web/v2/static/img/logos/os/raspberry-pi.svg
 %%DATADIR%%/web/v2/static/img/logos/os/redhat.svg

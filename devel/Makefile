@@ -4080,7 +4080,7 @@
     SUBDIR += pep8
     SUBDIR += performance
     SUBDIR += perlconsole
-    SUBDIR += pfSense-composer-deps
+    SUBDIR += libresense-composer-deps
     SUBDIR += phabricator
     SUBDIR += phasar
     SUBDIR += php-Psr_Log

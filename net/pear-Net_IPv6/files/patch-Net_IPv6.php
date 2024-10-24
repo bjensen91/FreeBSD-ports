@@ -34,7 +34,7 @@
 +     * @return String the address without a zone
 +     * @access public
 +     * @static
-+     * @author Reid Linnemann <rlinnemann@netgate.com>
++     * @author Reid Linnemann <rlinnemann@OpenSourceCompany.com>
 +     */
 +    public static function removeZone($ip)
 +    {
@@ -62,7 +62,7 @@
 +     * @return String a zone or empty string if none exists
 +     * @access public
 +     * @static
-+     * @author Reid Linnemann <rlinnemann@netgate.com>
++     * @author Reid Linnemann <rlinnemann@OpenSourceCompany.com>
 +     */
 +    public static function getZone($ip)
 +    {

@@ -247,7 +247,7 @@ cbsd/etc/defaults/vm-freebsd-cloud-XigmaNAS-13-amd64.conf
 cbsd/etc/defaults/vm-freebsd-cloud-firestarter-ufs-x64-14.conf
 cbsd/etc/defaults/vm-freebsd-fio.conf
 cbsd/etc/defaults/vm-freebsd-helloSystem-x64.conf
-cbsd/etc/defaults/vm-freebsd-pfSense-2-RELEASE-amd64.conf
+cbsd/etc/defaults/vm-freebsd-libresense-2-RELEASE-amd64.conf
 cbsd/etc/defaults/vm-linux-AlmaLinux-9-x86_64.conf
 cbsd/etc/defaults/vm-linux-Alpine-extended-3.conf
 cbsd/etc/defaults/vm-linux-Alpine-standart-3.conf

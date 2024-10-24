@@ -5466,7 +5466,7 @@ www/trac-accountmanager||2021-01-02|Has expired: Uses Python 2.7 which is EOLed 
 print/xfce4-print||2021-01-02|Unmaintained, depends on dropped XFCE GTK2 support
 x11/xfce4-quicklauncher-plugin||2021-01-02|Unmaintained, depends on dropped XFCE GTK2 support
 x11/xfce4-wmdock-plugin||2021-01-02|Unmaintained, depends on dropped XFCE GTK2 support
-sysutils/pfSense-pkg-Netgate_Coreboot_Upgrade|sysutils/pfSense-pkg-Netgate_Firmware_Upgrade|2021-03-09|Renamed
+sysutils/libresense-pkg-OpenSourceCompany_Coreboot_Upgrade|sysutils/libresense-pkg-OpenSourceCompany_Firmware_Upgrade|2021-03-09|Renamed
 x11-toolkits/libxfce4gui||2021-01-02|Unmaintained, depends on dropped XFCE GTK2 support
 devel/py-backports.functools_lru_cache||2021-01-02|Uses Python 2.7 which is EOLed upstream
 devel/py-backports_abc||2021-01-02|Uses Python 2.7 which is EOLed upstream
@@ -6002,8 +6002,8 @@ net-mgmt/zabbix52-frontend||2021-09-19|Has expired: Unsupported by upstream
 net-mgmt/zabbix52-java||2021-09-19|Has expired: Unsupported by upstream
 net-mgmt/zabbix52-proxy||2021-09-19|Has expired: Unsupported by upstream
 net-mgmt/zabbix52-server||2021-09-19|Has expired: Unsupported by upstream
-net-mgmt/pfSense-pkg-zabbix-agent52||2021-09-19|Has expired: Unsupported by upstream
-net-mgmt/pfSense-pkg-zabbix-proxy52||2021-09-19|Has expired: Unsupported by upstream
+net-mgmt/libresense-pkg-zabbix-agent52||2021-09-19|Has expired: Unsupported by upstream
+net-mgmt/libresense-pkg-zabbix-proxy52||2021-09-19|Has expired: Unsupported by upstream
 sysutils/roottail|sysutils/root-tail|2021-09-26|Renamed to match upstream naming
 devel/py-pyyaml-env-tag|devel/py-pyyaml_env_tag|2021-09-28|Renamed to match upstream naming
 mail/opensmtpd-devel|mail/opensmtpd|2021-09-28|Has expired: move to offical releases
@@ -6502,8 +6502,8 @@ games/pushover|games/domino-chain|2022-03-17|Chase upstream rename
 graphics/darktable38|graphics/darktable|2022-03-19|Darktable was upgraded to 3.8, separate port no longer needed
 security/1password-client-devel|security/1password-client2|2022-03-19|cli version 2 is now released
 x11-toolkits/pangoxsl||2022-03-20|Has expired: Abandonware and not used by any port
-net-mgmt/pfSense-pkg-zabbix-agent|net-mgmt/pfSense-pkg-zabbix-agent4|2022-03-22|Zabbix 3 expired
-net-mgmt/pfSense-pkg-zabbix-proxy|net-mgmt/pfSense-pkg-zabbix-proxy4|2022-03-22|Zabbix 3 expired
+net-mgmt/libresense-pkg-zabbix-agent|net-mgmt/libresense-pkg-zabbix-agent4|2022-03-22|Zabbix 3 expired
+net-mgmt/libresense-pkg-zabbix-proxy|net-mgmt/libresense-pkg-zabbix-proxy4|2022-03-22|Zabbix 3 expired
 print/lgrind||2022-03-22|Has expired: Abandonware as last release was in 2001
 devel/py-decorator4||2022-03-22|Has expired: Legacy version, use devel/py-decorator instead
 devel/p5-Log-Any-Adapter-Callback|devel/p5-Log-Any|2022-03-22|Has expired: Use devel/p5-Log-Any (Log::Any::Adapter::Capture) instead
@@ -7642,8 +7642,8 @@ textproc/apache-solr9|textproc/apache-solr|2023-06-18|New stable release
 games/poker-eval||2023-06-20|Upstream vanished
 graphics/3d-ascii-viewer-c|graphics/3d-ascii-viewer|2023-06-21|Project was renamed
 archivers/libunrar6|archivers/libunrar|2023-06-21|Moved to unversioned origin. Use archivers/libunrar instead
-pfSense-pkg-zabbix-agent62|pfSense-pkg-zabbix-agent64|2023-07-07|Zabbix 6.2 is EoL, switch to 6.4
-pfSense-pkg-zabbix-proxy62|pfSense-pkg-zabbix-proxy64|2023-07-07|Zabbix 6.2 is EoL, switch to 6.4
+libresense-pkg-zabbix-agent62|libresense-pkg-zabbix-agent64|2023-07-07|Zabbix 6.2 is EoL, switch to 6.4
+libresense-pkg-zabbix-proxy62|libresense-pkg-zabbix-proxy64|2023-07-07|Zabbix 6.2 is EoL, switch to 6.4
 japanese/font-plemoljp-nfj||2023-06-22|Removed by upstream
 graphics/fotofix||2023-06-23|Has expired: Depends on expired graphics/IPA
 graphics/IPA||2023-06-23|Has expired: Broken since 2021

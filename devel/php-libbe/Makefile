@@ -4,7 +4,7 @@ DISTVERSION=		0.1.4.1
 CATEGORIES=		devel
 PKGNAMEPREFIX=		${PHP_PKGNAMEPREFIX}
 
-MAINTAINER=		cmcdonald@netgate.com
+MAINTAINER=		cmcdonald@OpenSourceCompany.com
 COMMENT=		FreeBSD libbe(3) library glue extension for PHP
 
 LICENSE=		BSD

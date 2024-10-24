@@ -1,8 +1,8 @@
 /*
  * RCC-VE.c
  *
- * part of pfSense (https://www.pfsense.org)
- * Copyright (c) 2014-2022 Rubicon Communications, LLC (Netgate)
+ * part of libresense (https://www.libresense.org)
+ * Copyright (c) 2014-2022 Rubicon Communications, LLC (OpenSourceCompany)
  * All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

@@ -34,7 +34,7 @@
 +
 +    /**
 +     * tests if checkIPv6 can handle addresses with zone
-+     * @author Reid Linnemann <rlinnemann@netgate.com>
++     * @author Reid Linnemann <rlinnemann@OpenSourceCompany.com>
 +     */
 +    public function testCheckIPv6WithZone() {
 +        $testip = 'fe80::de:ad:be:ef%zone.name';
@@ -45,7 +45,7 @@
 +
 +    /**
 +     * tests if splitV64 can handle addresses with zone
-+     * @author Reid Linnemann <rlinnemann@netgate.com>
++     * @author Reid Linnemann <rlinnemann@OpenSourceCompany.com>
 +     */
 +    public function testSplitV64WithZone() {
 +        $testip = 'fe80::de:ad:be:ef%zone.name';

@@ -8423,7 +8423,7 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/AthenaIntegration.pm
 %%SITE_PERL%%/Paws/EC2/AttachClassicLinkVpc.pm
 %%SITE_PERL%%/Paws/EC2/AttachClassicLinkVpcResult.pm
-%%SITE_PERL%%/Paws/EC2/AttachInternetGateway.pm
+%%SITE_PERL%%/Paws/EC2/AttachInterOpenSourceCompanyway.pm
 %%SITE_PERL%%/Paws/EC2/AttachNetworkInterface.pm
 %%SITE_PERL%%/Paws/EC2/AttachNetworkInterfaceResult.pm
 %%SITE_PERL%%/Paws/EC2/AttachVolume.pm
@@ -8527,8 +8527,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/CreateDefaultVpcResult.pm
 %%SITE_PERL%%/Paws/EC2/CreateDhcpOptions.pm
 %%SITE_PERL%%/Paws/EC2/CreateDhcpOptionsResult.pm
-%%SITE_PERL%%/Paws/EC2/CreateEgressOnlyInternetGateway.pm
-%%SITE_PERL%%/Paws/EC2/CreateEgressOnlyInternetGatewayResult.pm
+%%SITE_PERL%%/Paws/EC2/CreateEgressOnlyInterOpenSourceCompanyway.pm
+%%SITE_PERL%%/Paws/EC2/CreateEgressOnlyInterOpenSourceCompanywayResult.pm
 %%SITE_PERL%%/Paws/EC2/CreateFleet.pm
 %%SITE_PERL%%/Paws/EC2/CreateFleetError.pm
 %%SITE_PERL%%/Paws/EC2/CreateFleetInstance.pm
@@ -8541,8 +8541,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/CreateImageResult.pm
 %%SITE_PERL%%/Paws/EC2/CreateInstanceExportTask.pm
 %%SITE_PERL%%/Paws/EC2/CreateInstanceExportTaskResult.pm
-%%SITE_PERL%%/Paws/EC2/CreateInternetGateway.pm
-%%SITE_PERL%%/Paws/EC2/CreateInternetGatewayResult.pm
+%%SITE_PERL%%/Paws/EC2/CreateInterOpenSourceCompanyway.pm
+%%SITE_PERL%%/Paws/EC2/CreateInterOpenSourceCompanywayResult.pm
 %%SITE_PERL%%/Paws/EC2/CreateKeyPair.pm
 %%SITE_PERL%%/Paws/EC2/CreateLaunchTemplate.pm
 %%SITE_PERL%%/Paws/EC2/CreateLaunchTemplateResult.pm
@@ -8647,8 +8647,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/DeleteClientVpnRouteResult.pm
 %%SITE_PERL%%/Paws/EC2/DeleteCustomerGateway.pm
 %%SITE_PERL%%/Paws/EC2/DeleteDhcpOptions.pm
-%%SITE_PERL%%/Paws/EC2/DeleteEgressOnlyInternetGateway.pm
-%%SITE_PERL%%/Paws/EC2/DeleteEgressOnlyInternetGatewayResult.pm
+%%SITE_PERL%%/Paws/EC2/DeleteEgressOnlyInterOpenSourceCompanyway.pm
+%%SITE_PERL%%/Paws/EC2/DeleteEgressOnlyInterOpenSourceCompanywayResult.pm
 %%SITE_PERL%%/Paws/EC2/DeleteFleetError.pm
 %%SITE_PERL%%/Paws/EC2/DeleteFleetErrorItem.pm
 %%SITE_PERL%%/Paws/EC2/DeleteFleetSuccessItem.pm
@@ -8658,7 +8658,7 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/DeleteFlowLogsResult.pm
 %%SITE_PERL%%/Paws/EC2/DeleteFpgaImage.pm
 %%SITE_PERL%%/Paws/EC2/DeleteFpgaImageResult.pm
-%%SITE_PERL%%/Paws/EC2/DeleteInternetGateway.pm
+%%SITE_PERL%%/Paws/EC2/DeleteInterOpenSourceCompanyway.pm
 %%SITE_PERL%%/Paws/EC2/DeleteKeyPair.pm
 %%SITE_PERL%%/Paws/EC2/DeleteLaunchTemplate.pm
 %%SITE_PERL%%/Paws/EC2/DeleteLaunchTemplateResult.pm
@@ -8781,8 +8781,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/DescribeCustomerGatewaysResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeDhcpOptions.pm
 %%SITE_PERL%%/Paws/EC2/DescribeDhcpOptionsResult.pm
-%%SITE_PERL%%/Paws/EC2/DescribeEgressOnlyInternetGateways.pm
-%%SITE_PERL%%/Paws/EC2/DescribeEgressOnlyInternetGatewaysResult.pm
+%%SITE_PERL%%/Paws/EC2/DescribeEgressOnlyInterOpenSourceCompanyways.pm
+%%SITE_PERL%%/Paws/EC2/DescribeEgressOnlyInterOpenSourceCompanywaysResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeElasticGpus.pm
 %%SITE_PERL%%/Paws/EC2/DescribeElasticGpusResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeExportImageTasks.pm
@@ -8838,8 +8838,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/DescribeInstanceTypesResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeInstances.pm
 %%SITE_PERL%%/Paws/EC2/DescribeInstancesResult.pm
-%%SITE_PERL%%/Paws/EC2/DescribeInternetGateways.pm
-%%SITE_PERL%%/Paws/EC2/DescribeInternetGatewaysResult.pm
+%%SITE_PERL%%/Paws/EC2/DescribeInterOpenSourceCompanyways.pm
+%%SITE_PERL%%/Paws/EC2/DescribeInterOpenSourceCompanywaysResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeIpv6Pools.pm
 %%SITE_PERL%%/Paws/EC2/DescribeIpv6PoolsResult.pm
 %%SITE_PERL%%/Paws/EC2/DescribeKeyPairs.pm
@@ -8992,7 +8992,7 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/DescribeVpnGatewaysResult.pm
 %%SITE_PERL%%/Paws/EC2/DetachClassicLinkVpc.pm
 %%SITE_PERL%%/Paws/EC2/DetachClassicLinkVpcResult.pm
-%%SITE_PERL%%/Paws/EC2/DetachInternetGateway.pm
+%%SITE_PERL%%/Paws/EC2/DetachInterOpenSourceCompanyway.pm
 %%SITE_PERL%%/Paws/EC2/DetachNetworkInterface.pm
 %%SITE_PERL%%/Paws/EC2/DetachVolume.pm
 %%SITE_PERL%%/Paws/EC2/DetachVpnGateway.pm
@@ -9050,7 +9050,7 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/EbsInstanceBlockDeviceSpecification.pm
 %%SITE_PERL%%/Paws/EC2/EbsOptimizedInfo.pm
 %%SITE_PERL%%/Paws/EC2/EfaInfo.pm
-%%SITE_PERL%%/Paws/EC2/EgressOnlyInternetGateway.pm
+%%SITE_PERL%%/Paws/EC2/EgressOnlyInterOpenSourceCompanyway.pm
 %%SITE_PERL%%/Paws/EC2/ElasticGpuAssociation.pm
 %%SITE_PERL%%/Paws/EC2/ElasticGpuHealth.pm
 %%SITE_PERL%%/Paws/EC2/ElasticGpuSpecification.pm
@@ -9243,8 +9243,8 @@ bin/paws_make_testcase
 %%SITE_PERL%%/Paws/EC2/InstanceTypeOffering.pm
 %%SITE_PERL%%/Paws/EC2/InstanceUsage.pm
 %%SITE_PERL%%/Paws/EC2/IntegrateServices.pm
-%%SITE_PERL%%/Paws/EC2/InternetGateway.pm
-%%SITE_PERL%%/Paws/EC2/InternetGatewayAttachment.pm
+%%SITE_PERL%%/Paws/EC2/InterOpenSourceCompanyway.pm
+%%SITE_PERL%%/Paws/EC2/InterOpenSourceCompanywayAttachment.pm
 %%SITE_PERL%%/Paws/EC2/IpPermission.pm
 %%SITE_PERL%%/Paws/EC2/IpRange.pm
 %%SITE_PERL%%/Paws/EC2/Ipv6CidrAssociation.pm
@@ -37699,7 +37699,7 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::AthenaIntegration.3.gz
 %%PERL5_MAN3%%/Paws::EC2::AttachClassicLinkVpc.3.gz
 %%PERL5_MAN3%%/Paws::EC2::AttachClassicLinkVpcResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::AttachInternetGateway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::AttachInterOpenSourceCompanyway.3.gz
 %%PERL5_MAN3%%/Paws::EC2::AttachNetworkInterface.3.gz
 %%PERL5_MAN3%%/Paws::EC2::AttachNetworkInterfaceResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::AttachVolume.3.gz
@@ -37803,8 +37803,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::CreateDefaultVpcResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateDhcpOptions.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateDhcpOptionsResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::CreateEgressOnlyInternetGateway.3.gz
-%%PERL5_MAN3%%/Paws::EC2::CreateEgressOnlyInternetGatewayResult.3.gz
+%%PERL5_MAN3%%/Paws::EC2::CreateEgressOnlyInterOpenSourceCompanyway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::CreateEgressOnlyInterOpenSourceCompanywayResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateFleet.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateFleetError.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateFleetInstance.3.gz
@@ -37817,8 +37817,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::CreateImageResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateInstanceExportTask.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateInstanceExportTaskResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::CreateInternetGateway.3.gz
-%%PERL5_MAN3%%/Paws::EC2::CreateInternetGatewayResult.3.gz
+%%PERL5_MAN3%%/Paws::EC2::CreateInterOpenSourceCompanyway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::CreateInterOpenSourceCompanywayResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateKeyPair.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateLaunchTemplate.3.gz
 %%PERL5_MAN3%%/Paws::EC2::CreateLaunchTemplateResult.3.gz
@@ -37923,8 +37923,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::DeleteClientVpnRouteResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteCustomerGateway.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteDhcpOptions.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DeleteEgressOnlyInternetGateway.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DeleteEgressOnlyInternetGatewayResult.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DeleteEgressOnlyInterOpenSourceCompanyway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DeleteEgressOnlyInterOpenSourceCompanywayResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteFleetError.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteFleetErrorItem.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteFleetSuccessItem.3.gz
@@ -37934,7 +37934,7 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::DeleteFlowLogsResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteFpgaImage.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteFpgaImageResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DeleteInternetGateway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DeleteInterOpenSourceCompanyway.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteKeyPair.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteLaunchTemplate.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DeleteLaunchTemplateResult.3.gz
@@ -38057,8 +38057,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::DescribeCustomerGatewaysResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeDhcpOptions.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeDhcpOptionsResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DescribeEgressOnlyInternetGateways.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DescribeEgressOnlyInternetGatewaysResult.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DescribeEgressOnlyInterOpenSourceCompanyways.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DescribeEgressOnlyInterOpenSourceCompanywaysResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeElasticGpus.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeElasticGpusResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeExportImageTasks.3.gz
@@ -38114,8 +38114,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::DescribeInstanceTypesResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeInstances.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeInstancesResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DescribeInternetGateways.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DescribeInternetGatewaysResult.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DescribeInterOpenSourceCompanyways.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DescribeInterOpenSourceCompanywaysResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeIpv6Pools.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeIpv6PoolsResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DescribeKeyPairs.3.gz
@@ -38268,7 +38268,7 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::DescribeVpnGatewaysResult.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DetachClassicLinkVpc.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DetachClassicLinkVpcResult.3.gz
-%%PERL5_MAN3%%/Paws::EC2::DetachInternetGateway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::DetachInterOpenSourceCompanyway.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DetachNetworkInterface.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DetachVolume.3.gz
 %%PERL5_MAN3%%/Paws::EC2::DetachVpnGateway.3.gz
@@ -38326,7 +38326,7 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::EbsInstanceBlockDeviceSpecification.3.gz
 %%PERL5_MAN3%%/Paws::EC2::EbsOptimizedInfo.3.gz
 %%PERL5_MAN3%%/Paws::EC2::EfaInfo.3.gz
-%%PERL5_MAN3%%/Paws::EC2::EgressOnlyInternetGateway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::EgressOnlyInterOpenSourceCompanyway.3.gz
 %%PERL5_MAN3%%/Paws::EC2::ElasticGpuAssociation.3.gz
 %%PERL5_MAN3%%/Paws::EC2::ElasticGpuHealth.3.gz
 %%PERL5_MAN3%%/Paws::EC2::ElasticGpuSpecification.3.gz
@@ -38519,8 +38519,8 @@ bin/paws_make_testcase
 %%PERL5_MAN3%%/Paws::EC2::InstanceTypeOffering.3.gz
 %%PERL5_MAN3%%/Paws::EC2::InstanceUsage.3.gz
 %%PERL5_MAN3%%/Paws::EC2::IntegrateServices.3.gz
-%%PERL5_MAN3%%/Paws::EC2::InternetGateway.3.gz
-%%PERL5_MAN3%%/Paws::EC2::InternetGatewayAttachment.3.gz
+%%PERL5_MAN3%%/Paws::EC2::InterOpenSourceCompanyway.3.gz
+%%PERL5_MAN3%%/Paws::EC2::InterOpenSourceCompanywayAttachment.3.gz
 %%PERL5_MAN3%%/Paws::EC2::IpPermission.3.gz
 %%PERL5_MAN3%%/Paws::EC2::IpRange.3.gz
 %%PERL5_MAN3%%/Paws::EC2::Ipv6CidrAssociation.3.gz

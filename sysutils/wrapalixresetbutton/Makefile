@@ -7,7 +7,7 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER=	coreteam@pfsense.org
+MAINTAINER=	coreteam@libresense.org
 COMMENT=	Utility to detect platform reset button state for use in scripting
 
 PLIST_FILES=	sbin/wrapresetbtn \

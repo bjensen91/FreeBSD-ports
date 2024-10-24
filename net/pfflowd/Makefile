@@ -7,7 +7,7 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER=	coreteam@pfsense.org
+MAINTAINER=	coreteam@libresense.org
 COMMENT=        Convert pfsync states to NetFlow datagrams
 
 WHERE=		sbin
